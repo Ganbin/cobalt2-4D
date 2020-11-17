@@ -1,4 +1,4 @@
-# Cobalt2 Teme for 4D
+# Cobalt2 Theme for 4D
 
 ![Preview](https://raw.githubusercontent.com/ganbin/cobalt2-4D/cobalt2-preview.png)
 
@@ -8,14 +8,14 @@
 2. Go to the `Active 4D Folder`
    1. Windows 7 and higher: {disk}\Users\{UserName}\AppData\Roaming\4D\
    2. MacOS: {disk}:Users:{UserName}:Library:Application Support:4D:
-3. Open the coresponding file.
+3. Open the corresponding file.
 4. Copy the part you like between the `<method_editor>` tag.
 
-## Important: Other Settings In This File
+## Important: Other Settings in This File
 
-It is important to notice that this file can contain other settings that you would like not to change. Be sure tu read your original file and the one with the Cobalt2 theme to only change the part that have the theme (between the `<method_editor>` tag)
+It is important to notice that this file can contain other settings that you would like not to change. Be sure to read your original file and the one with the Cobalt2 theme to only change the part that has the theme settings (between the `<method_editor>` tag)
 
-In the `<method_editor>` there is some options you may want to keep.
+In the `<method_editor>` there are some options you may want to keep.
 
 The ones that come with the Cobalt2 theme are those :
 
