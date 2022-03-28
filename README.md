@@ -4,33 +4,13 @@
 
 ## Installation
 
-1. Download the file corresponding to the version you like.
+1. Download the `4D Editor Themes/cobalt2.json` file.
 2. Go to the `Active 4D Folder`
    1. Windows 7 and higher: {disk}\Users\{UserName}\AppData\Roaming\4D\
    2. MacOS: {disk}:Users:{UserName}:Library:Application Support:4D:
-3. Open the corresponding file.
-4. Copy the part you like between the `<method_editor>` tag.
+3. Paste the `cobalt2.json` file into `4D Editor Themes` folder.
 
-## Important: Other Settings in This File
-
-It is important to notice that this file can contain other settings that you would like not to change. Be sure to read your original file and the one with the Cobalt2 theme to only change the part that has the theme settings (between the `<method_editor>` tag)
-
-In the `<method_editor>` there are some options you may want to keep.
-
-The ones that come with the Cobalt2 theme are those :
-
-```xml
-<options
-  auto_quote="true"
-  character_suggestion_validation="tabOnly"
-  hilite_same_word="hiliteOnFullySelected"
-  indentation="20"
-  matching_parenthesis_style="backColor"
-  show_blocks_hilite="false"
-  show_line_numbers="true"
-  show_lists="false"
-/>
-```
+For 4D version < 19 check the [README_old.md](https://github.com/Ganbin/cobalt2-4D/blob/master/README_old.md) file.
 
 ### Credits
 
