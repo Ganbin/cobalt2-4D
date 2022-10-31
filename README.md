@@ -1,6 +1,6 @@
 # Cobalt2 Theme for 4D
 
-![Preview](https://github.com/Ganbin/cobalt2-4D/blob/master/cobalt2-preview.png)
+<img src="cobalt2-preview.png" height=1000 />
 
 ## Installation
 
